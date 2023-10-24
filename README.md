@@ -1,3 +1,11 @@
+This is dynamic and responsive react news web application that fetches the latest headlines from the newsapi. 
+The features added in this website:
+1. infinite scrolling
+2. category selection
+3. progress bar
+4. responsive desing
+5. props validation
+6. dynamic page
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
